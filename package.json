@@ -1,0 +1,14 @@
+{
+  "name": "user-roles",
+  "version": "1.0.0",
+  "description": "ejemplo sencillo para manejar usuarios y roles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
